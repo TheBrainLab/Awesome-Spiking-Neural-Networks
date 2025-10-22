@@ -246,6 +246,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Direct Learning-Based Deep Spiking Neural Networks: A Review (**Frontiers in Neuroscience 2023**). [[paper](https://arxiv.org/pdf/2305.19725.pdf)]
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, NeurIPS, TPAMI, Science Advances**
+- Time series prediction and anomaly detection with recurrent spiking neural networks (**IJCNN 2023**). [[paper](https://ieeexplore.ieee.org/abstract/document/10191614)]
 - SpikingJelly: An open-source machine learning infrastructure platform for spike-based intelligence (**Science Advances 2023**). [[paper](https://www.science.org/doi/10.1126/sciadv.adi1480)] [[code](https://github.com/fangwei123456/spikingjelly)]
 - Spike-driven Transformer [[paper](https://arxiv.org/pdf/2307.01694.pdf)] [[code](https://github.com/BICLab/Spike-Driven-Transformer)]
 - Parallel Spiking Neurons with High Efficiency and Long-term Dependencies Learning Ability (**NeurIPS 2023**). [[paper](https://arxiv.org/abs/2304.12760)] [[code](https://github.com/fangwei123456/Parallel-Spiking-Neuron)]
