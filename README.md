@@ -53,6 +53,10 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## Papers
 
 ### 2025
+
+**Nature, Science, Cell**
+
+
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM**
 - Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (**KDD 2025**). [[paper](https://doi.org/10.48550/arXiv.2408.11067)][[code](https://github.com/yqding326/MRA-SNN)]
 - DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection (**ACM MM 2025**). 
