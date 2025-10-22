@@ -54,6 +54,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 ### 2025
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM**
+- Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (**KDD 2025**). [[paper](https://doi.org/10.48550/arXiv.2408.11067)][[code](https://github.com/yqding326/MRA-SNN)]
 - DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection (**ACM MM 2025**). 
 - ESOD: Event-Based Small Object Detection (**ACM MM 2025**). 
 - E-4DGS: High-Fidelity Dynamic Reconstruction from the Multi-view Event Cameras (**ACM MM 2025**). 
@@ -232,6 +233,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 
 **Arxiv**
+- Brain-Inspired Spiking Neural Networks for Industrial Fault Diagnosis: A Survey, Challenges, and Opportunities. [paper](https://doi.org/10.48550/arXiv.2401.02429)  
 - Q-SNNs: Quantized Spiking Neural Networks. [[paper](https://arxiv.org/pdf/2406.13672)]
 - Scalable MatMul-free Language Modeling. [[paper](https://arxiv.org/pdf/2406.02528)] [[code](https://github.com/ridgerchu/matmulfreellm)]
 - QKFormer: Hierarchical Spiking Transformer using Q-K Attention. [[paper](https://arxiv.org/pdf/2403.16552.pdf)] [[code](https://github.com/zhouchenlin2096/QKFormer)]
