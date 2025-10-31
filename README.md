@@ -7,8 +7,8 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## News
 
 <details>
-
 <summary> News 2025 </summary>
+[2025.10.31] Update SNN-related papers in Neurips 2025 (30 papers).
 
 [2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers), and ACM MM (9 papers).
 
@@ -19,7 +19,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 </details>
 
 <details>
-
 <summary> News 2024 </summary>
 
 [2024.11.13] Update SNN-related papers in NeurIPS 2024 (18 papers).
@@ -39,7 +38,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <summary> News 2023 </summary>
 
-
 [2023.12.31] Update SNN-related papers in TPAMI 2023, Frontiers in Neuroscience 2023.
 
 [2023.10.31] Update SNN-related papers in CVPR 2023 (2 papers), ICML 2023 (2), IJCAI 2023 (3), and ICCV 2023 (10), NeurIPS 2023 (12).
@@ -56,8 +54,39 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **Nature, Science, Cell**
 
+**AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM, Neurips**
 
-**AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM**
+- Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=oGmROC4e4W)] [[code](https://github.com/korneelf1/SpikingCrazyflie)]
+- Toward Relative Positional Encoding in Spiking Transformers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=MDWJlTWZHH)] [[code](https://github.com/microsoft/SeqSNN)]
+- High Dynamic Range Imaging with Time-Encoding Spike Camera (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=flIdch9eTf)] [[code](https://github.com/zkzhu123/TESC)]
+- Bipolar Self-attention for Spiking Transformers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=nG45z7lJ7D)] [[code](https://openreview.net/attachment?id=nG45z7lJ7D&name=supplementary_material)]
+- Spike-timing-dependent Hebbian learning as noisy gradient descent (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=YTbLri0siT)]
+- Spike-RetinexFormer: Rethinking Low-light Image Enhancement with Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=8W8SRZIpJP)]
+- SPACE: SPike-Aware Consistency Enhancement for Test-Time Adaptation in Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=Di0RasgbQ6)] [[code](https://github.com/ethanxyluo/SPACE)]
+- MI-TRQR: Mutual Information-Based Temporal Redundancy Quantification and Reduction for Energy-Efficient Spiking Neural Networks (**Neurips  2025**). [[paper](https://openreview.net/pdf?id=NRqGpUAjV9)] [[code](https://github.com/dfxue/MI-TRQR)]
+- Spik-NeRF: Spiking Neural Networks for Neural Radiance Fields (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=047VzZEpnu)] 
+- Dendritic Resonate-and-Fire Neuron for Effective and Efficient Long Sequence Modeling (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=ywzGKDStrm)] [[code](https://openreview.net/attachment?id=ywzGKDStrm&name=supplementary_material)]
+- Spiking Neural Networks Need High-Frequency Information (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=owNPAl7LNK)] [[code](https://github.com/bic-L/MaxFormer)]
+- Activity Pruning for Efficient Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=zjOXZEXQKZ)] [[code](https://github.com/putshua/Activity-Pruning-SNN)]
+- Multiplication-Free Parallelizable Spiking Neurons with Efficient Spatio-Temporal Dynamics (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=4q5ZYP0ynu)] [[code](https://github.com/PengXue0812/Multiplication-Free-Parallelizable-Spiking-Neurons-with-Efficient-Spatio-Temporal-Dynamics)]
+- SpikingVTG: A Spiking Detection Transformer for Video Temporal Grounding (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=SkhF3cuyev)] [[code](https://openreview.net/attachment?id=SkhF3cuyev&name=supplementary_material)]
+- S$^2$M-Former: Spiking Symmetric Mixing Branchformer for Brain Auditory Attention Detection (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=WtMuGdHvh6)] [[code](https://github.com/JackieWang9811/S2M-Former)]
+- Local-Global Coupling Spiking Graph Transformer for Brain Disorders Diagnosis from Two Perspectives (**Neurips 2025**).  [[paper](https://openreview.net/pdf?id=kkhRTTmXFV)]
+- A Scalable, Causal, and Energy Efficient Framework for Neural Decoding with Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=oAbaGU9N1X)] [[code](https://spikachu-bci.github.io/)]
+- Spiking Meets Attention: Efficient Remote Sensing Image Super-Resolution with Attention Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=VaE33hkqmg)] [[code](https://github.com/XY-boy/SpikeSR)]
+- Adaptive Fission: Post-training Encoding for Low-latency Spike Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=2zZzdAMyYi)] [[code](https://github.com/JiangYizhou16/Adaptive-Fission)]
+- S$^2$NN: Sub-bit Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=hFsCuVc1cB)] [[code](https://openreview.net/attachment?id=hFsCuVc1cB&name=supplementary_material)]
+- Seemingly Redundant Modules Enhance Robust Odor Learning in Fruit Flies (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=d6WUTRJqP3)] [[code](https://github.com/L-0cean/Fly-SNN)]
+- Fully Spiking Neural Networks for Unified Frame-Event Object Tracking (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=FooiwsnEH9)] [[code](https://github.com/Noctis-A/SpikeFET)]
+- Enhanced Self-Distillation Framework for Efficient Spiking Neural Network Training (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=dpmMg6aK1D)] [[code](openreview.net/pdf?id=dpmMg6aK1D)]
+- Learning the Plasticity: Plasticity-Driven Learning Framework in Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=fllsm01JWS)] 
+- HetSyn: Versatile Timescale Integration in Spiking Neural Networks via Heterogeneous Synapses (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=YYz4fumVed)] [[code](https://github.com/dzcgood/HetSyn)]
+- Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=tYnJC5ba6j)] [[code](https://github.com/EricZhang1412/Spatial-temporal-ERF)]
+- Brain-like Variational Inference (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=573IcLusXq)] [[code](https://github.com/hadivafaii/IterativeVAE)]
+- Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=RRBve5GwjS)] [[code](openreview.net/pdf?id=RRBve5GwjS)]
+- Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=BrmR69AhUg)]
+- Spike4DGS: Towards High-Speed Dynamic Scene Recontruction with 4D Gaussian Splatting via a Spike Camera Array (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=V5efEA8nIr)] [[code](https://github.com/Qinghongye/Spike4DGS)]
+
 - Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (**KDD 2025**). [[paper](https://doi.org/10.48550/arXiv.2408.11067)][[code](https://github.com/yqding326/MRA-SNN)]
 - DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection (**ACM MM 2025**). 
 - ESOD: Event-Based Small Object Detection (**ACM MM 2025**). 
