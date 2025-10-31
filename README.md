@@ -55,7 +55,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 **Nature, Science, Cell**
 
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM, Neurips**
-
 - Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=oGmROC4e4W)] [[code](https://github.com/korneelf1/SpikingCrazyflie)]
 - Toward Relative Positional Encoding in Spiking Transformers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=MDWJlTWZHH)] [[code](https://github.com/microsoft/SeqSNN)]
 - High Dynamic Range Imaging with Time-Encoding Spike Camera (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=flIdch9eTf)] [[code](https://github.com/zkzhu123/TESC)]
