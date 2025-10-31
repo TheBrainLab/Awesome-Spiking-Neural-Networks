@@ -85,7 +85,6 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=RRBve5GwjS)] [[code](openreview.net/pdf?id=RRBve5GwjS)]
 - Synergy Between the Strong and the Weak: Spiking Neural Networks are Inherently Self-Distillers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=BrmR69AhUg)]
 - Spike4DGS: Towards High-Speed Dynamic Scene Recontruction with 4D Gaussian Splatting via a Spike Camera Array (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=V5efEA8nIr)] [[code](https://github.com/Qinghongye/Spike4DGS)]
-
 - Toward End-to-End Bearing Fault Diagnosis for Industrial Scenarios with Spiking Neural Networks (**KDD 2025**). [[paper](https://doi.org/10.48550/arXiv.2408.11067)][[code](https://github.com/yqding326/MRA-SNN)]
 - DSF-Net: Dynamic Sparse Fusion of Event-RGB via Spike-Triggered Attention for High-Speed Detection (**ACM MM 2025**). 
 - ESOD: Event-Based Small Object Detection (**ACM MM 2025**). 
