@@ -8,6 +8,9 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 <details>
 <summary> News 2025 </summary>
+
+[2025.11.01] Update SNN-related papers in Nature, Science 2025 (10 papers).
+
 [2025.10.31] Update SNN-related papers in Neurips 2025 (30 papers).
 
 [2025.05.26] Update SNN-related papers in ICML 2025 (18 papers), IJCAI (11 papers), ICCV (7 papers), and ACM MM (9 papers).
@@ -53,7 +56,17 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2025
 
 **Nature, Science, Cell**
-
+- A spiking artificial neuron based on one diffusive memristor, one transistor and one resistor (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01488-x)][[code](https://github.com/GnohzZ/Brain-Dynamics-Modeling-Acceleration)]
+- A biologically inspired artificial neuron with intrinsic plasticity based on monolayer molybdenum disulfide (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01433-y)]
+- Modeling macroscopic brain dynamics with brain-inspired computing architecture (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-64470-3)]
+- A frugal Spiking Neural Network for unsupervised multivariate temporal pattern classification and multichannel spike sorting (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-64231-2)][[code](https://codeocean.com/capsule/9829487/tree)]
+- Efficient and robust temporal processing with neural oscillations modulated spiking neural networks (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-63771-x)][[code](https://github.com/YinsongYan/Rhythm-SNN)]
+- Covariant spatio-temporal receptive fields for spiking neural networks (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-63493-0)][[code](https://github.com/jegp/nrf)]
+- A multisynaptic spiking neuron for simultaneously encoding spatial and temporal dynamics in spiking neural networks (**Nature Communications, 2025**). [[paper](https://doi.org/10.1038/s41467-025-62251-6)][[code](https://github.com/fanliangwei/Multisynaptic-spiking-neurons)]
+- Advancing spatio-temporal processing through adaptation in spiking neural networks (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-60878-z)][[code](https://github.com/IGITUGraz/SE-adlif)]
+- Topology optimization of random memristors for input-aware dynamic SNN (**Science Advances, 2025**). [[paper](https://www.science.org/doi/10.1126/sciadv.ads5340)][[code](https://github.com/bo-wang-up/PRIME)]
+- Fully memristive spiking neural network for energy-efficient graph learning (**Science Advances, 2025**). [[paper](https://www.science.org/doi/10.1126/sciadv.adv2312)]
+  
 **AAAI, ICLR, CVPR, ICML, IJCAI, ICCV, ACM MM, Neurips**
 - Adaptive Surrogate Gradients for Sequential Reinforcement Learning in Spiking Neural Networks (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=oGmROC4e4W)] [[code](https://github.com/korneelf1/SpikingCrazyflie)]
 - Toward Relative Positional Encoding in Spiking Transformers (**Neurips 2025**). [[paper](https://openreview.net/pdf?id=MDWJlTWZHH)] [[code](https://github.com/microsoft/SeqSNN)]
