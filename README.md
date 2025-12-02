@@ -9,7 +9,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 <details>
 <summary> News 2025 </summary>
 
-[2025.11.01] Update SNN-related papers in Nature, Science 2025 (10 papers).
+[2025.11.01] Update SNN-related papers in Nature, Science 2025 (11 papers).
 
 [2025.10.31] Update SNN-related papers in Neurips 2025 (30 papers).
 
@@ -56,6 +56,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2025
 
 **Nature, Science, Cell**
+- Neuromorphic computing paradigms enhance robustness through spiking neural networks (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-65197-x)][[code](https://github.com/DingJianhao/SNNEnhancingRobustness)]
 - A spiking artificial neuron based on one diffusive memristor, one transistor and one resistor (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01488-x)][[code](https://github.com/GnohzZ/Brain-Dynamics-Modeling-Acceleration)]
 - A biologically inspired artificial neuron with intrinsic plasticity based on monolayer molybdenum disulfide (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01433-y)]
 - Modeling macroscopic brain dynamics with brain-inspired computing architecture (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-64470-3)]
