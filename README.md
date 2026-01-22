@@ -56,7 +56,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2025
 
 **Nature, Science, Cell**
-- Spiking neural networks with fatigue spike-timing-dependent plasticity learning using hybrid memristor arrays (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01554-4)]
+- Spiking neural networks with fatigue spike-timing-dependent plasticity learning using hybrid memristor arrays (**Nature Electronics, 2026**). [[paper](https://www.nature.com/articles/s41928-025-01554-4)]
 - Neuromorphic computing paradigms enhance robustness through spiking neural networks (**Nature Communications, 2025**). [[paper](https://www.nature.com/articles/s41467-025-65197-x)][[code](https://github.com/DingJianhao/SNNEnhancingRobustness)]
 - A spiking artificial neuron based on one diffusive memristor, one transistor and one resistor (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01488-x)][[code](https://github.com/GnohzZ/Brain-Dynamics-Modeling-Acceleration)]
 - A biologically inspired artificial neuron with intrinsic plasticity based on monolayer molybdenum disulfide (**Nature Electronics, 2025**). [[paper](https://www.nature.com/articles/s41928-025-01433-y)]
