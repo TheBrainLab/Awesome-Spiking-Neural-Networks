@@ -7,6 +7,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ## News
 
 <details>
+<summary> News 2026 </summary>
+
+[2025.xx.xx] Update SNN-related papers in AAAI 2026 (xx papers).
+
+
+<details>
 <summary> News 2025 </summary>
 
 [2025.11.01] Update SNN-related papers in Nature, Science 2025 (11 papers).
@@ -52,6 +58,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 
 ## Papers
+
+### 2026
+
+**Nature, Science, Cell**
+
+**AAAI**
 
 ### 2025
 
