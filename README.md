@@ -68,6 +68,10 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **AAAI, ICLR**
 
+**Preprint**
+- Catalyst N1: A 131K-Neuron Open Neuromorphic Processor (**Zenodo 2026**). [[paper](https://doi.org/10.5281/zenodo.18727094)] [[code](https://github.com/catalyst-neuromorphic/catalyst-neurocore)]
+- Catalyst N2: Full Loihi 2 Feature Parity in an Open Neuromorphic Processor (**Zenodo 2026**). [[paper](https://doi.org/10.5281/zenodo.18728256)] [[code](https://github.com/catalyst-neuromorphic/catalyst-neurocore)] [[benchmarks](https://github.com/catalyst-neuromorphic/catalyst-benchmarks)]
+
 
 
 ### 2025
