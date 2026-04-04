@@ -65,6 +65,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 ### 2026
 
 **Nature, Science, Cell**
+- Bioinspired spiking architecture enables energy constrained touch encoding (**Nature Communications, 2026**). [[paper](https://www.nature.com/articles/s41467-026-68858-7)][[code](https://github.com/Neuro-Robotic-Touch-Laboratory/Energy-Efficient-Touch-Localization)]
 
 **AAAI, ICLR**
 - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010693)]
