@@ -11,7 +11,7 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 [2026.03.24] Update SNN-related papers in AAAI 2026 (33 papers), ICLR 2026 (30 papers).
 
-[2026.10.06] Update SNN-related papers in ICML 2026 (34 papers).
+[2026.09.16] Update SNN-related papers in ICML 2026 (34 papers), ECML PKDD 2026 (2 papers).
 
 </details>
 
@@ -68,42 +68,43 @@ If you own or find some overlooked SNN papers, you can add them to this document
 
 **Nature, Science, Cell**
 
-**AAAI, ICLR, ICML**
-
-- Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66461)]
-- Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63522)]
+**AAAI, ICLR, ICML, ECML PKDD**
+- SpikF-GO: Spiking Fourier Graph Operators for Multivariate Time Series Forecasting (**ECML PKDD 2026**). [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37664-0_3)]
+- BSViT: A Burst Spiking Vision Transformer (**ECML PKDD 2026**). [[paper](https://link.springer.com/chapter/10.1007/978-3-032-37664-0_11)]
+- A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62795)]
 - A$^2$SG: Adaptive and Asymmetric Surrogate Gradients for Training Deep Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66327)]
-- SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63548)]
+- AdaS: Adaptive Gradient Descent for Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62239)]
+- Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64518)]
+- Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65137)]
+- Efficient Transformer Attention for SNNs via Hadamard Simplification (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63868)]
+- Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66489)]
 - Emergent Visual Representations through Unsupervised Spiking Networks with Synaptic Pruning (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61303)]
+- Error Amplification Limits ANN-to-SNN Conversion in Continuous Control (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62414)]
+- Frequency Matching in Spiking Neural Networks for mmWave Sensing (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62044)]
+- High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66504)]
+- LIF Recurrent Memory Enables Long-Horizon Spiking Computation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/60660)]
+- Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62502)]
+- Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61972)]
+- Positional Encoding for Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61080)]
+- Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61451)]
+- Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63746)]
+- Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65945)]
+- SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63061)]
+- SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63665)]
+- Spik4lite: Refactoring Neuromorphic Sparsity for Efficient Spiking Neural Networks on Commodity Edge Devices (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63522)]
+- Spike-HTR: Spiking Neural Transformer for Handwritten Text Recognition (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66461)]
+- SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61778)]
+- SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66082)]
+- SpikeVLA: Vision-Language-Action Models with Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63548)]
+- SpikingLM: Towards Fully Spiking Language Model (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64012)]
+- SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65732)]
+- TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/60966)]
+- Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62184)]
+- Training Deep Spiking Neural Networks without Normalization (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62569)]
 - Trajectory-Aware Spiking DiTs Conversion via Membrane Potential Error-Feedback (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61672)]
 - UltraLIF: Fully Differentiable Spiking Neural Networks via Ultradiscretization and Max-Plus Algebra (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64130)]
-- SVL: Empowering Spiking Neural Networks for Efficient 3D Open-World Understanding (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65732)]
-- Rethinking Attention in Spiking Transformers: Overcoming Density Bias with Set Similarity (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65945)]
-- Bio-Vision-Inspired Spiking Neural Networks for Object Detection with Event Cameras (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64518)]
-- Frequency Matching in Spiking Neural Networks for mmWave Sensing (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62044)]
-- SpikeCLR: Self-Supervised Contrastive Learning for Visual Representations with Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61778)]
-- SpikingLM: Towards Fully Spiking Language Model (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64012)]
-- SmoothSpike: Spiking Transformer with Learnable Hadamard Transformation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63665)]
-- AdaS: Adaptive Gradient Descent for Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62239)]
-- Positional Encoding for Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61080)]
-- SMM Transformer: Leveraging Spiking Neural Networks for Multimodal Tasks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63061)]
-- TEFormer: Structured Bidirectional Temporal Enhancement Modeling in Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/60966)]
-- Plug-and-Play Spiking Operators: Breaking the Nonlinearity Bottleneck in Spiking Transformers (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61972)]
-- Efficiently Training Time-to-First-Spike Spiking Neural Networks from Scratch (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66489)]
-- Training Deep Spiking Neural Networks without Normalization (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62569)]
-- Resolving the Timestep Scaling Paradox in Spiking Neural Networks with a Timestep-Scalable Neuron Model (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63746)]
 - UniSparse: Combining Weight Pruning and Spike Sparsification in Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/64520)]
-- Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/65137)]
-- A Spiking Heterogeneous Harmonic Resonate-and-Fire State Space Model for Time Series (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62795)]
-- Practical Mechanism for Fault-Tolerant Spiking Neural Networks via Simple Input Control Based on Learnable Fragmentation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/61451)]
-- SpikeNet: Sparse Spike-Driven Mask Vector Transformer for Energy-Efficient and Stable Spiking Point Cloud Processing (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66082)]
-- LIF Recurrent Memory Enables Long-Horizon Spiking Computation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/60660)]
-- Temporal Weighted Encoding: Towards Maximal-Capacity Spike Coding for ANN–SNN Conversion (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62184)]
-- Narrowing the ANN–SNN Gap for Continuous 1D Temporal Signal Classification with Multi-Scale Temporal Encoding and Sparsity-Regularized Transform Encoding (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62502)]
 - Zeroth-Order Forward-Only SNN Training Inspiring Neuromorphic On-Chip Learning (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/60849)]
-- Efficient Transformer Attention for SNNs via Hadamard Simplification (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/63868)]
-- Error Amplification Limits ANN-to-SNN Conversion in Continuous Control (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/62414)]
-- High-Fidelity ANN-to-SNN Conversion via Closed-Loop CKA Distillation (**ICML 2026**). [[paper](https://icml.cc/virtual/2026/poster/66504)]
 - Robustify Spiking Neural Networks via Dominant Singular Deflation under Heterogeneous Training Vulnerability (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10010693)]
 - A Brain-Inspired Gating Mechanism Unlocks Robust Computation in Spiking Neural Networks (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10011430)]
 - Training Deep Normalization-Free Spiking Neural Networks with Lateral Inhibition. (**ICLR 2026**). [[paper](https://iclr.cc/virtual/2026/poster/10009258)]
