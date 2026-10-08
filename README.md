@@ -511,6 +511,12 @@ If you own or find some overlooked SNN papers, you can add them to this document
 - Temporal-wise Attention Spiking Neural Networks for Event Streams Classification. (**ECCV 2021**). [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Yao_Temporal-Wise_Attention_Spiking_Neural_Networks_for_Event_Streams_Classification_ICCV_2021_paper.pdf)]
 
 
+## Open-Source Projects & Novel Architectures
+
+Biologically-inspired architectures and open-source tools related to spiking and neuromorphic computation.
+
+- [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - Novel neural architecture with cascade activation through shared neuron pool, inspired by biological neuron reuse. CPU-only, zero catastrophic forgetting.
+
 ### Reference
 If you find this repo useful, please consider citing:
 ```
